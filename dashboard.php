@@ -636,7 +636,7 @@ Banner -->
                 &nbsp;
             </div>
         </div>
-        <div class="row m-0 mt-6">
+        <div class="row m-0 mt-12">
             <div class="col-10 d-flex offset-1 ">
                 <div class="col-2"><img src="assets/images/logo_1.png" class="img-fluid" alt=""></div>
                 <div class="col-8 text-end mt-4">
