@@ -1,4 +1,4 @@
-<?php echo''; ?>
+<?php echo ''; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -114,19 +114,19 @@ Banner -->
                             <div class="col-3 text-center" style="display: grid;"><span class="counter-time col-12" style="position: relative;
                                 top: 35px;">0</span>
                                 <div class="box mx-2" style="background:linear-gradient(60deg,#CE7B00 60%,#B64C2A 0)"></div>
-                                dd
+                                Days
                             </div>
                             <div class="col-3" style="display: grid;"><span class=" counter-time col-12" style="position: relative; top:35px">0</span>
                                 <div class="box mx-2 " style="background:linear-gradient(60deg,#CE7B00 60%,#B64C2A 0) "></div>
-                                dd
+                                Hours
                             </div>
                             <div class="col-3 " style="display: grid;"> <span class="counter-time col-12" style="position: relative; top:35px">0</span>
                                 <div class="box mx-2" style="background:linear-gradient(60deg,#CE7B00 100%,#B64C2A 0)"></div>
-                                dd
+                                Minutes
                             </div>
                             <div class="col-3" style="display: grid;"> <span class=" counter-time col-12" style="position: relative; top:35px">0</span>
                                 <div class="box mx-2 " style="background:linear-gradient(60deg,#CE7B00 100%,#B64C2A 0) "></div>
-                                dd
+                                Seconds
                             </div>
 
                         </div>
@@ -136,20 +136,20 @@ Banner -->
             </div>
         </section>
     </div>
-    <div class="mt-2">
+    <div class="mt-2 m-0">
         <div class="row m-0 padding-top-container ">
             <div class="col-12">
-                <div class="col-6 offset-4 d-flex">
-                    <div class="col-3 mx-2">
-                        <button class="btn btn-brown" style="width: 100%;background-color: rgb(182, 76, 42);">ok</button>
+                <div class="col-6 offset-3 d-flex">
+                    <div class="col-6 mx-2">
+                        <button class="btn btn-brown" style="width: 100%;font-size: 8px;padding: 0px;background-color: rgb(182, 76, 42);">Connect Wallet</button>
                     </div>
-                    <div class="col-3">
-                        <button class="btn btn-outline-brown" style="width: 100%;">ok</button>
+                    <div class="col-6">
+                        <button class="btn btn-outline-brown" style="width: 100%;font-size: 8px;padding: 0px;">Join now</button>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="mt-3">&nbsp;</div>
+        <div class="mt-3 m-0">&nbsp;</div>
         <div class="row m-0 mt-5 ">
             <div class="col-12 d-flex p-0">
                 <img src="assets/images/slider.png" width="100%" alt="" srcset="">
@@ -158,16 +158,15 @@ Banner -->
 
         <div class="row m-0 mt-6">
             <div class="col-12 text-center">
-                <h2>sadsda fijds klfhasdsdaf</h2>
+                <h2>90% of NFT Projects will fail</h2>
                 <p class="mt-5 col-10 offset-1">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam ea possimus, rerum eligendi odit voluptate, officiis ex distinctio illo totam optio consequuntur a facilis perferendis quasi nisi. Quas, quidem magni!Lorem ipsum dolor sit amet, consectetur
-                    adipisicing elit. Laboriosam ea possimus, rerum eligendi odit voluptate, officiis ex distinctio illo totam optio consequuntur a facilis perferendis quasi nisi. Quas, quidem magni! Lorem ipsum dolor sit amet consectetur, adipisicing
-                    elit. Distinctio molestias quae nesciunt, in qui, nobis illum, perferendis officiis nostrum quasi vitae error ducimus repellendus fugit quidem. Nesciunt ut ad sed.
-                </p>
+                    We’re not just a regular NFT collection. We are a business. We aim for LONG-TERM SUCCESS. Our goal is to make sure your investment is highly profitable and to create the next generation of NFT traders, by giving advanced tools not available to the public.
+                    We will be hiring mathematicians, quants and developers from wall street to develop an in-house tool only available to our community. We will also be constantly adding new features to our tools, through machine learning and AI. We
+                    are the first NFT hedge fund. We will take the lead and build the best NFT trading platform available on the market </p>
             </div>
         </div>
 
-        <div class="row m-0 mt-5">
+        <div class="row m-0 mt-5 mobile-none d-md-block d-xl-block d-xxl-block">
             <div class="col-12 text-center d-flex">
                 <div class="col-4">
                     <img src="assets/images/NFT-cost (1).png" width="60%" class="img-fluid" alt="">
@@ -183,42 +182,44 @@ Banner -->
                 </div>
             </div>
         </div>
-        <div class="row m-0">
+        <div class="row m-0 mobile-none d-md-block d-xl-block d-xxl-block">
             <div class="col-12 text-center d-flex">
                 <div class="col-4 mt-6">
-                    <div class="col-12">heading</div>
-                    <div class="col-12 mt-3">title</div>
+                    <div class="col-12">With One Cats</div>
+                    <div class="col-12 mt-3">- 10% off on X, X, X</div>
                 </div>
                 <div class="col-4 mt-6">
-                    <div class="col-12">heading</div>
-                    <div class="col-12 mt-3">title</div>
+                    <div class="col-12">With Two Cats</div>
+                    <div class="col-12 mt-3">- 20% off on X, X, X</div>
                 </div>
                 <div class="col-4 mt-6">
-                    <div class="col-12">heading</div>
-                    <div class="col-12 mt-3">title</div>
+                    <div class="col-12">With Three Cats</div>
+                    <div class="col-12 mt-3">- 30% off on X, X, X</div>
                 </div>
             </div>
         </div>
-        <div class="row m-0 mt-8">
+        <div class="row m-0 mt-8 mobile-none d-md-block d-xl-block d-xxl-block">
             <div class="col-12 d-md-flex">
                 <div class="col-md-4 col-12">
                     <ul class="box-list">
+                        Access to our bunker in the metaverse with our own in-game token and mini-games
+
                         <li style="list-style-type: disc">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit debitis blanditiis ipsa voluptatem rem doloribus in fuga asperiores, magni possimus itaque. Voluptas eum porro consequatur ab vero facilis, autem fuga.
+                            Access to the best exclusive NFT, Stocks and Crypto community with the most recognized experts, mathematician and trader
+
                         </li>
                         <li style="list-style-type: disc">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate impedit repudiandae ullam similique possimus repellendus minima quia quis illo voluptatem velit rerum modi fugit nesciunt, a numquam tenetur ducimus ea?
+                            Access to the course how to trade NFTs like Wall Street, which give information not available on the internet/only insiders know
                         </li>
-                        <li style="list-style-type: disc">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla laudantium nemo, magnam necessitatibus molestias ratione distinctio, quo inventore quae vero explicabo nihil, beatae cupiditate fugit officia culpa accusamus? Fugiat,
-                            expedita.
+                        <li style="list-style-type: disc"> Access to the course how to trade NFTs like Wall Street, which give information not available on the internet/only insiders know
                         </li>
                     </ul>
                 </div>
                 <div class="col-md-4 col-12">
                     <ul class="box-list">
                         <li style="list-style-type: disc">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit debitis blanditiis ipsa voluptatem rem doloribus in fuga asperiores, magni possimus itaque. Voluptas eum porro consequatur ab vero facilis, autem fuga. Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Voluptate impedit repudiandae ullam similique possimus repellendus minima quia quis illo voluptatem velit rerum modi fugit nesciunt, a numquam tenetur ducimus ea?
+                            Access to our in-house software algorithm which quantifies the potential of each collection on a score of 1/3000 from least chance of succeeding ot the best, to achieve that, we use complex machine learning and AI which was developped by our quants. you
+                            can finally start trading like the big guys now.
                         </li>
 
                     </ul>
@@ -226,7 +227,7 @@ Banner -->
                 <div class="col-md-4 col-12">
                     <ul class="box-list">
                         <li style="list-style-type: disc">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit debitis blanditiis ipsa voluptatem rem doloribus in fuga asperiores, magni possimus itaque. Voluptas eum porro consequatur ab vero facilis, autem fuga.
+                            Access to our proprietary trading bots, never miss another NFT. You can now mint in any NFT collection in under 2 seconds.
                         </li>
 
                     </ul>
@@ -236,13 +237,70 @@ Banner -->
 
 
         </div>
+
+
+
+        <div class="row m-0 mt-5 mobile">
+            <div class="col-12 text-center ">
+                <div class="col-12 text-center">
+                    <img src="assets/images/NFT-cost (1).png" width="60%" class="img-fluid" alt="">
+                    <div class="col-12">With One Cats</div>
+                    <div class="col-12 mt-3">- 10% off on X, X, X</div>
+                    <div class="col-12">
+                        <ul class="box-list">
+                            Access to our bunker in the metaverse with our own in-game token and mini-games
+
+                            <li style="list-style-type: disc">
+                                Access to the best exclusive NFT, Stocks and Crypto community with the most recognized experts, mathematician and trader
+
+                            </li>
+                            <li style="list-style-type: disc">
+                                Access to the course how to trade NFTs like Wall Street, which give information not available on the internet/only insiders know
+                            </li>
+                            <li style="list-style-type: disc"> Access to the course how to trade NFTs like Wall Street, which give information not available on the internet/only insiders know
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <img src="assets/images/NFT-cost (2).png" width="60%" class="img-fluid" alt="">
+                    <div class="col-12">With One Cats</div>
+                    <div class="col-12 mt-3">- 20% off on X, X, X</div>
+                    <div class="col-12">
+                        <ul class="box-list">
+                            <li style="list-style-type: disc">
+                                Access to our in-house software algorithm which quantifies the potential of each collection on a score of 1/3000 from least chance of succeeding ot the best, to achieve that, we use complex machine learning and AI which was developped by our quants. you
+                                can finally start trading like the big guys now.
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <img src="assets/images/NFT-cost (3).png" width="60%" class="img-fluid" alt="">
+                    <div class="col-12">With One Cats</div>
+                    <div class="col-12 mt-3">- 30% off on X, X, X</div>
+                    <div class="col-12">
+                        <ul class="box-list">
+                            <li style="list-style-type: disc">
+                                Access to our proprietary trading bots, never miss another NFT. You can now mint in any NFT collection in under 2 seconds.
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
         <div class="col-md-11-5  text-center" style="box-shadow: 0 4px 8px 0 rgba(245, 134, 61, 0.329), 0 6px 20px 0 rgba(245, 134, 61, 0.329); ">
             <img src="assets/images/bouns.png" width="125px" alt="">
         </div>
         <div class="row m-0 mt-7">
             <div class="col-12">
                 <div class="col-6 offset-3">
-                    <button class="btn btn-brown" style="width: 100%;background-color: rgb(182, 76, 42);">ok</button>
+                    <button class="btn btn-brown" style="width: 100%;background-color: rgb(182, 76, 42);">Join Us</button>
                 </div>
             </div>
         </div>
@@ -253,11 +311,11 @@ Banner -->
                         The Silent
                     </div>
                     <div class="col-12 mt-6">
-                        <button class="btn btn-brown" style="width: 100%;background-color: rgb(182, 76, 42);">ok</button>
+                        <button class="btn btn-brown" style="width: 100%;padding: 0px;font-size: 8px;background-color: rgb(182, 76, 42);">Join Us</button>
                     </div>
                 </div>
                 <div class="col-9 mx-5">
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae maxime deleniti expedita suscipit! Beatae quis architecto maxime! Vitae, nisi alias! Veritatis nesciunt consequatur sapiente enim consectetur? Dolore magni vel officiis.
+                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has
                 </div>
             </div>
         </div>
@@ -271,41 +329,40 @@ Banner -->
                 <h3>Our Story</h3>
             </div>
             <div class="col-12 text-center mt-3">
-                ddss
+                The Billionaire Bunker
             </div>
-            <div class="col-12 d-flex mt-6">
-                <div class="col-6" style="text-align: -webkit-center;">
+            <div class="col-md-12 d-md-flex mt-6">
+                <div class="col-md-6 col-sm-12" style="text-align: -webkit-center;">
                     <div class="col-8">
-                        <img src="assets/images/earth.png" width="100%" alt="" srcset="">
+                        <img src="assets/images/earth.png" class="img-fluid" alt="" srcset="">
                     </div>
                 </div>
-                <div class="col-6">
-                    <div class="col-10">
+                <div class="col-md-6 col-sm-12 mt-3  ">
+                    <div class="col-12">
                         <p style="display: contents;">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, sunt vel maiores reiciendis quisquam iste expedita id nobis ratione nesciunt, delectus earum quis veniam aut ab ex libero minima ullam?Lorem ipsum dolor sit amet consectetur adipisicing
-                            elit. Cupiditate minus voluptatum omnis expedita impedit modi hic ut qui blanditiis ex similique ducimus ipsam nobis facere iusto tempore consequatur, odio facilis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit
-                            expedita ad deleniti beatae, accusamus sapiente! Deserunt voluptatem ratione ullam repudiandae, inventore debitis? Dolor nesciunt aut tenetur ut similique pariatur esse. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            Iste eligendi, blanditiis, voluptates molestias voluptatem enim nisi sapiente sed aliquid est eaque cumque cum molestiae? Assumenda neque quos unde quam inventore.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem,
-                            sunt vel maiores reiciendis quisquam iste expedita id nobis ratione nesciunt, delectus earum quis veniam aut ab ex libero minima ullam?Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate minus voluptatum omnis
-                            expedita impedit modi hic ut qui blanditiis ex similique ducimus ipsam nobis facere iusto tempore consequatur, odio facilis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit expedita ad deleniti beatae, accusamus
-                            sapiente! Deserunt voluptatem ratione ullam repudiandae, inventore debitis? Dolor nesciunt aut tenetur ut similique pariatur esse. <span id="dots">...</span><span id="more" style="display: none;">Lorem ipsum dolor
+                            Once, not so long ago, in their ever expanding attempt to regulate and control global currencies, the world’s leading governments combined to form an International planetary commission. They consolidated all of the world’s hard currencies into one and
+                            set limits on earning, investment, and spending. The idea was to put a stop to the out of control depletion of natural resources and profiteering. To manage this new world order, digital scientists developed new infrastructure
+                            within the metasphere, where machine intelligence could be employed to police online and deep web traffic. After a decade, human activity was normalized into standard routine. Work, replenish, work. The new global government
+                            established a machine code to provide daily briefings and make decisions regarding best possible outcomes. As a result, all forms of leisure and entertainment were heavily monitored under the “Get to Work Act.” Parties were
+                            banned Banning anything involving emotions attachment. Government took control over emotional decision such as numbers of babies and only 1 pet per family. Which results by humans deciding to keep only dogs (man’s best friend)
+                            - So the cats were put off the street on their own
+                            <span id="dots">...</span><span id="more" style="display: none;">Lorem ipsum dolor
                             sit amet consectetur adipisicing elit. Iste eligendi, blanditiis, voluptates molestias voluptatem enim nisi sapiente sed aliquid est eaque cumque cum molestiae? Assumenda neque quos unde quam inventore.</span></p>
-                        <a onclick="myFunction()" id="myBtn">Read more</button>
+                        <a onclick="myFunction()" id="myBtn">Read more</a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row m-0 mt-6">
             <div class="col-8 offset-2 text-center d-flex">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores asperiores earum eos voluptates laudantium expedita quo illo aliquid deserunt, libero ea alias veritatis ipsam non labore quos temporibus quaerat? Beatae.
-            </div>
+                The lines between what is real and what is really going on have always been blurred. The cats have just made it more interesting. Find your cat, get your NFT, enter the BIllionaire Bunker, and pull up a chair. The party is just getting started. </div>
         </div>
         <div class="row m-0 text-center mt-10">
             <div class="col-12 d-flex mt-5">
                 <div class="col-4">
-                    <h1>road map</h1>
+                    <h1>Road Map</h1>
                 </div>
-                <div class="col-6">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas necessitatibus molestiae tenetur laborum molestias harum beatae vitae. Earum error impedit quisquam fuga. Ipsam porro laudantium soluta modi suscipit sit eligendi?</div>
+                <div class="col-6">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</div>
             </div>
         </div>
         <div class="row m-0 mt-7">
@@ -314,177 +371,273 @@ Banner -->
             </div>
         </div>
         <div class="row m-0 mt-5">
-            <div class="col-12 ">
+            <div class="col-11 ">
                 <div class="col-10 offset-1">
                     <img src="assets/images/join us.png" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-6 offset-3 d-flex mt-5">
                     <div class="col-6 mx-2">
-                        <button class="btn btn-brown" style="width: 100%;background-color: rgb(182, 76, 42);">ok</button>
+                        <button class="btn btn-brown" style="width: 100%;padding: 0px;font-size: 8px;background-color: rgb(182, 76, 42);">Join Us</button>
                     </div>
                     <div class="col-6">
-                        <button class="btn btn-outline-brown" style="width: 100%;">ok</button>
+                        <button class="btn btn-outline-brown" style="width: 100%;padding: 0px;font-size: 8px;">Connect Wallet</button>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row m-0 mt-5">
+        <div class="row m-0 mt-5 mobile-none d-md-block d-xl-block d-xxl-block">
             <div class="col-12 text-center mt-10">
-                <h1>our Team</h1>
-                <p>qwertyuiop</p>
+                <h1>Our Team</h1>
+                <p>Meet the entire team</p>
             </div>
             <div class="col-12 m-0 d-flex mt-4">
                 <div class="col-3 offset-2">
                     <div class="col-12"><img src="assets/images/team-top.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box" >
-                        <strong>qwertyui</strong>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
                     </div>
                 </div>
                 <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid"  alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box" >
-                        <strong>qwertyui</strong>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
+                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
                     </div>
                 </div>
                 <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid"  alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box" >
-                        <strong>qwertyui</strong>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
+                    <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
                     </div>
                 </div>
             </div>
             <div class="col-12 d-flex mx-3">
                 <div class="col-3">
                     <div class="col-12">
-                        <img src="assets/images/team-middle (3).png" class="img-fluid"  alt="">
+                        <img src="assets/images/team-middle (3).png" width="90%" class="img-fluid" alt="">
                     </div>
-                    <div class="col-9 offset-1 text-center text-overlay-box" >
-                        <strong>qwertyui</strong>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-middle (4).png" class="img-fluid"  alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box" >
-                        <strong>qwertyui</strong>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid"  alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box" >
-                        <strong>qwertyui</strong>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid"  alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
 
-                    <div class="col-9 offset-1 text-center text-overlay-box" >
-                        <strong>qwertyui</strong>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="col-12"><img src="assets/images/team-middle (4).png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid" alt=""></div>
+
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
                     </div>
                 </div>
             </div>
-            <div class="col-12 d-flex ">
+            <div class="col-12 d-flex">
                 <div class="col-12 d-flex">
                     <div class="col-3 offset-2">
-                        <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid"  alt=""></div>
-                        <div class="col-9 offset-1 text-center text-overlay-box" >
-                            <strong>qwertyui</strong>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
+                        <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid" alt=""></div>
+                        <div class="col-9 offset-1 text-center text-overlay-box">
+                            <strong>Home Run - CEO and Investor</strong>
+
                         </div>
                     </div>
                     <div class="col-3">
-                        <div class="col-12"><img src="assets/images/team-end (2).png" class="img-fluid"  alt=""></div>
-                        <div class="col-9 offset-1 text-center text-overlay-box" >
-                            <strong>qwertyui</strong>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
+                        <div class="col-12"><img src="assets/images/team-end (2).png" class="img-fluid" alt=""></div>
+                        <div class="col-9 offset-1 text-center text-overlay-box">
+                            <strong>Home Run - CEO and Investor</strong>
+
                         </div>
                     </div>
                     <div class="col-3">
-                        <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid"  alt=""></div>
-                        <div class="col-9 offset-1 text-center text-overlay-box" >
-                            <strong>qwertyui</strong>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quisquam asperiores expedita, </p>
+                        <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid" alt=""></div>
+                        <div class="col-9 offset-1 text-center text-overlay-box">
+                            <strong>Home Run - CEO and Investor</strong>
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="row m-0 mt-5 mobile">
+            <div class="col-sm-12 text-center mt-10">
+                <h1>Our Team</h1>
+                <p>Meet the entire team</p>
+            </div>
+            <div class="col-sm-12 m-0 d-flex mt-4">
+                <div class="col-sm-6 ">
+                    <div class="col-12"><img src="assets/images/team-top.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 m-0 d-flex mt-4">
+                <div class="col-sm-6">
+                    <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="col-12">
+                        <img src="assets/images/team-middle (3).png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 m-0 d-flex mt-4">
+                <div class="col-sm-6">
+                    <div class="col-12"><img src="assets/images/team-middle (4).png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 m-0 d-flex mt-4">
+                <div class="col-sm-6">
+                    <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid" alt=""></div>
+
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+
+
+                <div class="col-sm-6 ">
+                    <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 m-0 d-flex mt-4">
+                <div class="col-sm-6">
+                    <div class="col-12"><img src="assets/images/team-end (2).png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid" alt=""></div>
+                    <div class="col-9 offset-1 text-center text-overlay-box">
+                        <strong>Home Run - CEO and Investor</strong>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="row m-0 mt-5">
-            <div class="col-12">
-                <p style="margin-left: 50px;"><h3 style="margin-left: 50px;">FAQ</h3></p>
-                <div class="col-12 d-flex">
-                <div class="col-6 " style="margin-left: 50px;">
-                    
-                    <h1>qwertyu</h1>
-                    <div class="col-12 " style="padding-left: 0px;">
-                        <span>qwer</span>
-                        <span>qwer</span>
-                        <span>qwer</span>
-                        <span>qwer</span>
-                        <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
-                            <div class="col-10">
-                                qwertyu
+            <div class="col-11">
+                <p style="margin-left: 50px;">
+                    <h3 style="margin-left: 50px;">FAQ</h3>
+                </p>
+                <div class="col-12 d-md-flex">
+                    <div class="col-md-6 col-sm-12" style="margin-left: 50px;">
+                        <h1>Frenquently Questions</h1>
+                        <div class="col-12 " style="padding-left: 0px;">
+                            <span>General</span>
+                            <span>Pre ICO & ICO</span>
+                            <span>Token</span>
+                            <span>Client</span>
+                            <span>Legal</span>
+
+                            <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
+                                <div class="col-10">
+                                    How to mint an NFT ?
+                                </div>
+                                <div class="col-2 text-end">
+                                    <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
+                                </div>
                             </div>
-                            <div class="col-2 text-end">
-                                <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
+                            <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
+                                <div class="col-10">
+                                    What is the minting date ?
+                                </div>
+                                <div class="col-2 text-end">
+                                    <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
-                            <div class="col-10">
-                                qwertyu
+                            <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
+                                <div class="col-10">
+                                    What is the minting price ?
+                                </div>
+                                <div class="col-2 text-end">
+                                    <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
+                                </div>
                             </div>
-                            <div class="col-2 text-end">
-                                <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
+                            <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
+                                <div class="col-10">
+                                    How can I use my NFTs ?
+                                </div>
+                                <div class="col-2 text-end">
+                                    <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
-                            <div class="col-10">
-                                qwertyu
-                            </div>
-                            <div class="col-2 text-end">
-                                <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
-                            </div>
-                        </div> 
-                        <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
-                            <div class="col-10">
-                                qwertyu
-                            </div>
-                            <div class="col-2 text-end">
-                                <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
-                            </div>
-                        </div>
-                        <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
-                            <div class="col-10">
-                                qwertyu
-                            </div>
-                            <div class="col-2 text-end">
-                                <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
+                            <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
+                                <div class="col-10">
+                                    How to have access to presale ?
+                                </div>
+                                <div class="col-2 text-end">
+                                    <span style="border: 1px solid rgb(182, 76, 42);background-color: rgb(182, 76, 42) ; border-radius: 50%;padding:2px 3px 2px 3px; color: white;">▼</span>
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-5 col-sm-12 mt-2"><img class="img-fluid" src="assets/images/join us.png" alt=""></div>
                 </div>
-                <div class="col-5"><img class="img-fluid" src="assets/images/join us.png" alt=""></div>
             </div>
-        </div>
         </div>
         <div class="row m-0 mt-10">
             <div class="col-10 offset-1 ">
                 <img class="img-fluid" src="assets/images/all-brands.png" alt="">
             </div>
         </div>
-        <div class="row mt-12">
-            <div class="col-12 offset-1 ">
-&nbsp;
+        <div class="row m-0 mt-12">
+            <div class="col-10 offset-1 ">
+                &nbsp;
             </div>
         </div>
-        <div class="row mt-6">
-            <div class="col-12 d-flex offset-1 ">
+        <div class="row m-0 mt-6">
+            <div class="col-10 d-flex offset-1 ">
                 <div class="col-2"><img src="assets/images/logo_1.png" class="img-fluid" alt=""></div>
                 <div class="col-8 text-end mt-4">
                     <div class="col-12">
@@ -493,7 +646,7 @@ Banner -->
                         <span>zxc</span>
                         <span>zxc</span>
                     </div>
-                    <div class="col-12 mt-1">
+                    <div class="col-10 mt-1">
                         <span><img src="assets/images/insta.png" alt=""></span>
                         <span><img src="assets/images/facebook.png" alt=""></span>
                         <span><img src="assets/images/linkedin.png" alt=""></span>
@@ -501,19 +654,18 @@ Banner -->
                 </div>
             </div>
         </div>
-        <div class="row mt-6">
-            <div class="col-12 offset-1 d-flex">
+        <div class="row m-0 mt-6">
+            <div class="col-10 offset-1 d-flex">
                 <div class="col-4">
                     NFTs MarketPlace
                 </div>
-               <div class="col-4 offset-4">
-                <i class="fa fa-copyright" aria-hidden="true"></i>
-                IbexSOl Devs All copyrights reserved
-               </div>
-                
+                <div class="col-4 offset-4">
+                    <i class="fa fa-copyright" aria-hidden="true"></i> IbexSOl Devs All copyrights reserved
+                </div>
+
             </div>
         </div>
-        <div class="mt-1">&nbsp;</div>
+        <div class="mt-1 m-0">&nbsp;</div>
         <!--=================================
 Banner -->
 

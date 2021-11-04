@@ -104,7 +104,7 @@ body {
     font-family: Roboto-Light;
     font-weight: normal;
     font-style: normal;
-    font-size: 0.6em;
+    font-size: 12px;
     color: #ffffff;
     overflow-x: hidden;
 }
@@ -387,7 +387,7 @@ hr {
     padding: 10px 20px;
     -webkit-box-shadow: none;
     box-shadow: none;
-    font-size: 1.4vh;
+    font-size: 12px;
     font-weight: 600;
     border-radius: 3px;
 }
@@ -407,7 +407,7 @@ textarea.form-control {
 
 .custom-file .custom-file-label {
     height: 50px;
-    font-size: 1.4vh;
+    font-size: 12px;
     font-weight: 600;
     color: #001935;
     border-color: #eeeeee;
@@ -536,7 +536,7 @@ textarea.form-control {
     background-color: #fff;
     border: 1px solid #ced4da;
     height: 50px;
-    font-size: 1.4vh;
+    font-size: 12px;
     font-weight: 600;
     color: #001935;
     border-color: #eeeeee;
@@ -1951,7 +1951,7 @@ textarea.form-control {
 /* testimonial-02-small */
 
 .testimonial-item-02-small .testimonial-content {
-    font-size: 1.4vh;
+    font-size: 12px;
     padding: 60px 40px 20px;
     margin-top: 10px;
     margin-bottom: 30px;
@@ -1959,8 +1959,8 @@ textarea.form-control {
 }
 
 .testimonial-item-02-small .testimonial-content p {
-    font-size: 1.4vh;
-    font-size: 1.4vh;
+    font-size: 12px;
+    font-size: 12px;
     font-weight: 400;
     color: #626262;
     margin-top: 15px;
@@ -2012,7 +2012,7 @@ textarea.form-control {
 }
 
 .testimonial-item-02-small .testimonial-name h6 {
-    font-size: 1.4vh;
+    font-size: 12px;
 }
 
 .testimonial-item-02-small .testimonial-name span {
@@ -2091,7 +2091,7 @@ textarea.form-control {
 }
 
 .countdown-small p {
-    font-size: 1.4vh;
+    font-size: 12px;
 }
 
 .coming-soon .facebook-bg {
@@ -2645,7 +2645,7 @@ button {
 }
 
 .btn {
-    font-size: 1.4vh;
+    font-size: 12px;
     font-weight: 600;
     padding: 12px 30px;
     border-radius: 3px;
@@ -2913,7 +2913,7 @@ button {
     left: 0;
     top: -30px;
     color: #001935;
-    font-size: 1.4vh;
+    font-size: 12px;
     font-weight: 600;
 }
 
@@ -3086,11 +3086,11 @@ button {
     height: 30px;
     line-height: 30px;
     width: 40px;
-    font-size: 1.4vh;
+    font-size: 12px;
 }
 
 .bootstrap-datetimepicker-widget table th {
-    font-size: 1.4vh;
+    font-size: 12px;
 }
 
 .bootstrap-datetimepicker-widget table td span.active {
@@ -3199,7 +3199,7 @@ button {
 }
 
 .topbar .dropdown .dropdown-menu a {
-    font-size: 1.4vh;
+    font-size: 12px;
     padding: 10px 20px;
     font-weight: 500;
     border-radius: 3px;
@@ -3281,7 +3281,7 @@ button {
     padding: 9px 20px;
     color: #001935;
     text-transform: capitalize;
-    font-size: 1.4vh;
+    font-size: 12px;
 }
 
 .header .navbar-nav li>a:hover {
@@ -3446,7 +3446,7 @@ button {
 }
 
 .navbar .dropdown>.dropdown-menu li>a {
-    font-size: 1.4vh;
+    font-size: 12px;
     padding: 7px 20px 7px 0;
     border-radius: 3px;
     position: relative;
@@ -3785,7 +3785,7 @@ button {
 @media (min-width: 992px) {
     .header .navbar .dropdown-menu {
         margin: 0px;
-        font-size: 1.4vh;
+        font-size: 12px;
         border-radius: 5px;
         border: none;
         left: 100%;
@@ -3875,7 +3875,7 @@ button {
     }
     .navbar .navbar-nav .nav-link {
         padding: 10px 7px;
-        font-size: 1.4vh;
+        font-size: 12px;
     }
 }
 
@@ -3922,7 +3922,7 @@ button {
     }
     .header .navbar .dropdown-menu {
         margin: 0px;
-        font-size: 1.4vh;
+        font-size: 12px;
         border-radius: 0px;
         border: none;
         -webkit-box-shadow: none;
@@ -4047,7 +4047,7 @@ button {
 
 .job-search-item .left-icon .detect span {
     padding-right: 25px;
-    font-size: 1.4vh;
+    font-size: 12px;
     color: #969696;
 }
 
@@ -4538,7 +4538,7 @@ button {
 }
 
 .category-style-02 ul li .category-title {
-    font-size: 1.4vh;
+    font-size: 12px;
     margin-bottom: 0;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
@@ -4585,7 +4585,7 @@ button {
     padding: 5px 10px;
     border-radius: 3px;
     color: #ffffff;
-    font-size: 1.4vh;
+    font-size: 12px;
 }
 
 
@@ -5586,7 +5586,7 @@ iframe {
 }
 
 .select2-container--default .select2-selection--single .select2-selection__rendered {
-    font-size: 1.4vh;
+    font-size: 12px;
 }
 
 .job-search-field .select2-container--default .select2-selection--single {
@@ -5606,11 +5606,11 @@ iframe {
     display: inline-block;
     position: relative;
     font-weight: 500;
-    font-size: 1.4vh !important;
+    font-size: 12px !important;
 }
 
 .hp-search-more span {
-    font-size: 1.4vh !important;
+    font-size: 12px !important;
 }
 
 .job-search-item .hp-search-more i {
@@ -6836,6 +6836,10 @@ html {
     display: inline-flex;
 }
 
+.mobile-none {
+    display: none;
+}
+
 
 /* blockquote */
 
@@ -7654,7 +7658,7 @@ html {
     }
     #slider .slider-content h6 {
         line-height: 18px;
-        font-size: 1.4vh;
+        font-size: 12px;
     }
     /* feature-content */
     .feature-content {
@@ -7706,7 +7710,10 @@ html {
         padding-top: 72% !important;
     }
     body {
-        font-size: 1.4vh !important;
+        font-size: 12px !important;
+    }
+    .mobile {
+        display: none !important;
     }
 }
 
@@ -7715,7 +7722,10 @@ html {
         padding-top: 71% !important;
     }
     body {
-        font-size: 1.4vh !important;
+        font-size: 12px !important;
+    }
+    .mobile {
+        display: none !important;
     }
 }
 
@@ -7723,11 +7733,17 @@ html {
     .padding-top-container {
         padding-top: 70% !important;
     }
+    .mobile {
+        display: none !important;
+    }
 }
 
 @media screen and (max-width: 1800px) and (min-width: 1700px) {
     .padding-top-container {
         padding-top: 69% !important;
+    }
+    .mobile {
+        display: none !important;
     }
 }
 
@@ -7735,11 +7751,17 @@ html {
     .padding-top-container {
         padding-top: 68% !important;
     }
+    .mobile {
+        display: none !important;
+    }
 }
 
 @media screen and (max-width: 1600px) and (min-width: 1500px) {
     .padding-top-container {
         padding-top: 67% !important;
+    }
+    .mobile {
+        display: none !important;
     }
 }
 
@@ -7751,6 +7773,9 @@ html {
         position: relative !important;
         top: -180px !important;
     }
+    .mobile {
+        display: none !important;
+    }
 }
 
 @media screen and (max-width: 1400px) and (min-width: 1300px) {
@@ -7760,6 +7785,9 @@ html {
     .text-overlay-box {
         position: relative !important;
         top: -170px !important;
+    }
+    .mobile {
+        display: none !important;
     }
 }
 
@@ -7771,6 +7799,9 @@ html {
         position: relative !important;
         top: -160px !important;
     }
+    .mobile {
+        display: none !important;
+    }
 }
 
 @media screen and (max-width: 1200px) and (min-width: 1100px) {
@@ -7780,6 +7811,9 @@ html {
     .text-overlay-box {
         position: relative !important;
         top: -150px !important;
+    }
+    .mobile {
+        display: none !important;
     }
 }
 
@@ -7791,6 +7825,9 @@ html {
         position: relative !important;
         top: -140px !important;
     }
+    .mobile {
+        display: none !important;
+    }
 }
 
 @media screen and (max-width: 1000px) and (min-width: 900px) {
@@ -7800,6 +7837,9 @@ html {
     .text-overlay-box {
         position: relative !important;
         top: -130px !important;
+    }
+    .mobile {
+        display: block !important;
     }
 }
 
@@ -7811,6 +7851,9 @@ html {
         position: relative !important;
         top: -120px !important;
     }
+    .mobile {
+        display: none !important;
+    }
 }
 
 @media screen and (max-width: 800px) and (min-width: 700px) {
@@ -7820,6 +7863,9 @@ html {
     .text-overlay-box {
         position: relative !important;
         top: -110px !important;
+    }
+    .mobile {
+        display: block !important;
     }
 }
 
@@ -7837,6 +7883,9 @@ html {
     .col-md-11-5 {
         width: 91%;
     }
+    .mobile {
+        display: block !important;
+    }
 }
 
 @media screen and (max-width: 600px) and (min-width: 500px) {
@@ -7852,6 +7901,9 @@ html {
     }
     .col-md-11-5 {
         width: 91% !important;
+    }
+    .mobile {
+        display: block !important;
     }
 }
 
@@ -7869,6 +7921,9 @@ html {
     .col-md-11-5 {
         width: 90% !important;
     }
+    .mobile {
+        display: block !important;
+    }
 }
 
 @media screen and (max-width: 400px) and (min-width: 300px) {
@@ -7885,6 +7940,9 @@ html {
     .col-md-11-5 {
         width: 88% !important;
     }
+    .mobile {
+        display: block !important;
+    }
 }
 
 @media screen and (max-width: 300px) and (min-width: 200px) {
@@ -7900,6 +7958,9 @@ html {
     }
     .col-md-11-5 {
         width: 87% !important;
+    }
+    .mobile {
+        display: block !important;
     }
 }
 
@@ -7948,7 +8009,7 @@ html {
         padding-bottom: 40px;
     }
     .lead {
-        font-size: 1.4vh;
+        font-size: 12px;
     }
     .banner {
         /* padding: 60px 0; */
@@ -8009,7 +8070,7 @@ html {
         margin-bottom: 20px;
     }
     .job-found h6 {
-        font-size: 1.4vh;
+        font-size: 12px;
     }
     /* blog */
     .blog-post-footer .blog-post-time,
@@ -8022,7 +8083,7 @@ html {
         margin: 15px 0px;
     }
     .blog-detail .blog-post .blog-post-content .blockquote {
-        font-size: 1.4vh;
+        font-size: 12px;
         padding-left: 20px;
     }
     .blog-post .blog-post-footer .blog-post-time,
@@ -8069,7 +8130,7 @@ html {
         line-height: 24px;
     }
     .countdown p {
-        font-size: 1.4vh;
+        font-size: 12px;
     }
     .countdown-small.countdown span {
         font-size: 20px;
@@ -8419,7 +8480,7 @@ html {
         top: 30px;
     }
     .testimonial-content p {
-        font-size: 1.4vh;
+        font-size: 12px;
     }
     .testimonial-item-02 .quotes {
         top: 35px;
