@@ -100,6 +100,39 @@ strong {
     color: #ffffff !important;
 }
 
+.owl-carousel,
+.owl-carousel .owl-nav.disabled {
+    display: block !important;
+}
+
+.owl-prev {
+    background-image: url(left.png) !important;
+    width: 38px !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    position: absolute;
+    top: 88px;
+    left: 78px;
+}
+
+.owl-prev span {
+    display: none;
+}
+
+.owl-next span {
+    display: none;
+}
+
+.owl-next {
+    background-image: url(right.png)!important;
+    width: 38px !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    position: absolute;
+    top: 88px;
+    right: 78px;
+}
+
 body {
     font-family: Roboto-Light;
     font-weight: normal;
