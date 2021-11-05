@@ -262,7 +262,7 @@ Banner -->
                 </div>
 
             </div>
-            <div class="col-md-11-5 d-block text-center p-3 ps-5 " style=" ">
+            <div class="col-md-11-5 d-block text-center p-3 ps-5 " >
                 <img src="assets/images/bouns.png " width="125px " alt=" ">
             </div>
 

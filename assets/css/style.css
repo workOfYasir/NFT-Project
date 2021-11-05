@@ -87,6 +87,10 @@ strong {
     font-family: ClementePDam-Bold;
 }
 
+.text-brown {
+    color: #B64C2A !important;
+}
+
 h3 {
     color: #B64C2A !important;
 }
@@ -7994,6 +7998,9 @@ html {
     .mobile-none {
         display: none !important;
     }
+    .footer-font {
+        font-size: 12px !important;
+    }
 }
 
 @media screen and (max-width: 600px) and (min-width: 500px) {
@@ -8015,6 +8022,9 @@ html {
     }
     .mobile-none {
         display: none !important;
+    }
+    .footer-font {
+        font-size: 12px !important;
     }
 }
 
@@ -8038,6 +8048,9 @@ html {
     .mobile-none {
         display: none !important;
     }
+    .footer-font {
+        font-size: 12px !important;
+    }
 }
 
 @media screen and (max-width: 400px) and (min-width: 300px) {
@@ -8059,6 +8072,9 @@ html {
     }
     .mobile-none {
         display: none !important;
+    }
+    .footer-font {
+        font-size: 12px !important;
     }
 }
 
@@ -8082,6 +8098,9 @@ html {
     .mobile-none {
         display: none !important;
     }
+    .footer-font {
+        font-size: 12px !important;
+    }
 }
 
 @media screen and (max-width: 570px) and (min-width: 400px) {
@@ -8093,6 +8112,9 @@ html {
     }
     .mobile-none {
         display: none !important;
+    }
+    .footer-font {
+        font-size: 12px !important;
     }
 }
 
@@ -8110,6 +8132,9 @@ html {
     .mobile-none {
         display: none !important;
     }
+    .footer-font {
+        font-size: 12px !important;
+    }
 }
 
 @media screen and (max-width: 350px) and (min-width: 300px) {
@@ -8121,6 +8146,9 @@ html {
     }
     .mobile-none {
         display: none !important;
+    }
+    .footer-font {
+        font-size: 12px !important;
     }
 }
 
