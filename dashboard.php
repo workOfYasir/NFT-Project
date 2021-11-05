@@ -631,13 +631,13 @@ Banner -->
         </div>
         <div class="row m-0 mt-6">
             <div class="col-10 d-flex offset-1 ">
-                <div class="col-2"><img src="assets/images/logo_1.png" class="img-fluid mobile" alt=""></div>
-                <div class="col-8 text-end mt-4">
+                <div class="col-2"><img src="assets/images/logo_1.png" class="img-fluid " alt=""></div>
+                <div class="col-11 text-end mt-4">
                     <div class="col-12">
-                        <span>Contant Us</span>
-                        <span>Road Map</span>
-                        <span>Team</span>
-                        <span>FAQs</span>
+                        <span class="footer-font">Contant Us</span>
+                        <span class="footer-font">Road Map</span>
+                        <span class="footer-font">Team</span>
+                        <span class="footer-font">FAQs</span>
                     </div>
                     <div class="col-12 mt-1">
                         <span><img src="assets/images/insta.png" alt=""></span>
@@ -648,11 +648,11 @@ Banner -->
             </div>
         </div>
         <div class="row m-0 mt-6">
-            <div class="col-10 offset-1 d-flex">
-                <div class="col-4">
+            <div class="col-11 offset-1 d-flex">
+                <div class="col-4 footer-font">
                     NFTs MarketPlace
                 </div>
-                <div class="col-4 offset-4">
+                <div class="col-4 offset-4 footer-font">
                     <i class="fa fa-copyright" aria-hidden="true"></i> IbexSOl Devs All copyrights reserved
                 </div>
 
