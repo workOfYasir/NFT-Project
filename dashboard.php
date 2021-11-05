@@ -50,7 +50,7 @@ Header -->
                 <a class="navbar-brandw" href="index.html">
                     <img src="assets/images/logo_1.png" width="100px" alt="logo">
                 </a>
-                <div class="col-5">
+                <div class="col-4">
 
                 </div>
                 <div class="navbar-collapse collapse justify-content-start">
@@ -62,7 +62,7 @@ Header -->
 
                         </li>
                         <li class="dropdown nav-item">
-                            <a href="#" class="nav-link" data-bs-toggle="dropdown">Pages
+                            <a href="#" class="nav-link" data-bs-toggle="dropdown">About
                                 
                             </a>
 
@@ -75,21 +75,28 @@ Header -->
 
                         </li>
                         <li class="dropdown nav-item mega-menu">
-                            <a href="#" class="nav-link" data-bs-toggle="dropdown">Elements
+                            <a href="#" class="nav-link" data-bs-toggle="dropdown">Roadmap
                                 
                             </a>
 
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Employer 
+              our Team 
               
             </a>
 
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Candidates 
+              Faq 
+              
+            </a>
+
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Future Plans 
               
             </a>
 
