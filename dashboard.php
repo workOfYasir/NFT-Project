@@ -262,7 +262,7 @@ Banner -->
                 </div>
 
             </div>
-            <div class="col-md-11-5 d-block text-center p-3 ps-5 " >
+            <div class="col-md-11-5 d-block text-center p-3 ps-5 " style=" ">
                 <img src="assets/images/bouns.png " width="125px " alt=" ">
             </div>
 
@@ -444,7 +444,7 @@ Banner -->
         <div class="row m-0 mt-5 mobile-none d-md-block d-xl-block d-xxl-block ">
             <div class="col-12 text-center mt-10 ">
                 <h1 class="m-0 p-0">Our Team</h1>
-                <p class="text-brown mt-2" style="font-size: 20px;">Meet the entire team</p>
+                <p class="text-brown mt-2 all-round" style="font-size: 20px;">Meet the entire team</p>
             </div>
             <div class="col-12 m-0 d-flex mt-4 ">
                 <div class="col-3 offset-2 ">

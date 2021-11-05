@@ -68,8 +68,8 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 *****************************/
 
 @font-face {
-    font-family: ClementePDam-Bold;
-    src: url(ClementePDam-Bold.ttf);
+    font-family: All-Round-Gothic-W03-Book;
+    src: url(All-Round-Gothic-W03-Book.ttf);
 }
 
 @font-face {
@@ -77,14 +77,50 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
     src: url(Roboto-Light.ttf);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
+h1 {
+    letter-spacing: 1px !important;
+    word-spacing: 3px !important;
+    font-family: All-Round-Gothic-W03-Book !important;
+}
+
+h2 {
+    letter-spacing: 1px !important;
+    word-spacing: 3px !important;
+    font-family: All-Round-Gothic-W03-Book !important;
+}
+
+h3 {
+    letter-spacing: 1px !important;
+    word-spacing: 3px !important;
+    font-family: All-Round-Gothic-W03-Book !important;
+}
+
+h4 {
+    letter-spacing: 1px !important;
+    word-spacing: 5px !important;
+    font-family: All-Round-Gothic-W03-Book !important;
+}
+
+h5 {
+    letter-spacing: 1px !important;
+    word-spacing: 3px !important;
+    font-family: All-Round-Gothic-W03-Book !important;
+}
+
+.all-round {
+    font-family: All-Round-Gothic-W03-Book !important;
+}
+
+h6 {
+    letter-spacing: 1px !important;
+    word-spacing: 3px !important;
+    font-family: All-Round-Gothic-W03-Book !important;
+}
+
 strong {
-    font-family: ClementePDam-Bold;
+    letter-spacing: 1px !important;
+    word-spacing: 1px !important;
+    font-family: All-Round-Gothic-W03-Book !important;
 }
 
 .text-brown {
