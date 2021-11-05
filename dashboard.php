@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/skeleton/normalize.css" />
     <link rel="stylesheet" href="assets/css/skeleton/skeleton.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- Page CSS Implementing Plugins (Remove the plugin CSS here if site does not use that feature)-->
     <link rel="stylesheet" href="assets/css/owl-carousel/owl.carousel.min.css" />
     <link rel="stylesheet" href="assets/css/magnific-popup/magnific-popup.css" />
@@ -40,61 +41,61 @@
 Header -->
     <header class="header header-transparent">
         <nav class="navbar navbar-static-top navbar-expand-lg navbar-light header-sticky">
-            <div class="container-fluid">
+            <div class="container-fluid mobile-none">
                 <button id="nav-icon4" type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
           <span></span>
           <span></span>
           <span></span>
       </button>
-                <a class="navbar-brand" href="index.html">
-                    <img class="img-fluid" src="assets/images/logo_1.png" alt="logo">
+                <a class="navbar-brandw" href="index.html">
+                    <img src="assets/images/logo_1.png" width="100px" alt="logo">
                 </a>
-                <div class="col-3">
+                <div class="col-5">
 
                 </div>
                 <div class="navbar-collapse collapse justify-content-start">
                     <ul class="nav navbar-nav">
                         <li class="nav-item dropdown active">
                             <a class="nav-link" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home
-                                <!-- <i class="fas fa-chevron-down fa-xs"></i> -->
+                                
                             </a>
 
                         </li>
                         <li class="dropdown nav-item">
                             <a href="#" class="nav-link" data-bs-toggle="dropdown">Pages
-                                <!-- <i class="fas fa-chevron-down fa-xs"></i> -->
+                                
                             </a>
 
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Listing 
-              <!-- <i class="fas fa-chevron-down fa-xs"></i> -->
+              
             </a>
 
                         </li>
                         <li class="dropdown nav-item mega-menu">
                             <a href="#" class="nav-link" data-bs-toggle="dropdown">Elements
-                                <!-- <i class="fas fa-chevron-down fa-xs"></i> -->
+                                
                             </a>
 
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Employer 
-              <!-- <i class="fas fa-chevron-down fa-xs"></i> -->
+              
             </a>
 
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Candidates 
-              <!-- <i class="fas fa-chevron-down fa-xs"></i> -->
+              
             </a>
 
                         </li>
                         <li class="nav-item add-listing">
-                            <a class="btn-contact" style="color:white" href="#"> </i>Post a job</a>
+                            <a class="btn-contact" style="color:white" href="#"> </i>Contact Us</a>
                         </li>
                     </ul>
                 </div>
@@ -143,17 +144,17 @@ Banner -->
             <div class="col-12">
                 <div class="col-6 offset-3 d-flex">
                     <div class="col-6 mx-2">
-                        <button class="btn btn-brown" style="width: 100%;font-size: 8px;padding: 0px;background-color: rgb(182, 76, 42);">Connect Wallet</button>
+                        <button class="btn btn-brown" style="width: 100%;font-size: 8px;background-color: rgb(182, 76, 42);">Connect Wallet</button>
                     </div>
                     <div class="col-6">
-                        <button class="btn btn-outline-brown" style="width: 100%;font-size: 8px;padding: 0px;">Join now</button>
+                        <button class="btn btn-outline-brown" style="width: 100%;font-size: 8px;">Join now</button>
                     </div>
                 </div>
             </div>
         </div>
         <div class="mt-3 m-0">&nbsp;</div>
-        <div class="row m-0 mt-5 ">
-            <div class="col-12 d-flex p-0">
+        <div class="row mt-5 m-0">
+            <div class="col-12 d-flex p-2">
                 <div class="owl-carousel owl-theme">
 
                     <div class="item">
@@ -221,7 +222,6 @@ Banner -->
             <div class="col-12 d-md-flex">
                 <div class="col-md-4 col-12">
                     <ul class="box-list">
-                        Access to our bunker in the metaverse with our own in-game token and mini-games
 
                         <li style="list-style-type: disc">
                             Access to the best exclusive NFT, Stocks and Crypto community with the most recognized experts, mathematician and trader
@@ -253,7 +253,9 @@ Banner -->
                 </div>
 
             </div>
-
+            <div class="col-md-11-5 d-block text-center p-3 ps-5" style=" ">
+                <img src="assets/images/bouns.png" width="125px" alt="">
+            </div>
 
         </div>
 
@@ -308,18 +310,19 @@ Banner -->
                         </ul>
                     </div>
                 </div>
+
             </div>
         </div>
 
 
 
-        <div class="col-md-11-5  text-center" style="box-shadow: 0 4px 8px 0 rgba(245, 134, 61, 0.329), 0 6px 20px 0 rgba(245, 134, 61, 0.329); ">
+        <!-- <div class="col-md-11-5  text-center p-3" style="box-shadow: 0 4px 8px 0 rgba(245, 134, 61, 0.329), 0 6px 20px 0 rgba(245, 134, 61, 0.329);  ;">
             <img src="assets/images/bouns.png" width="125px" alt="">
-        </div>
+        </div> -->
         <div class="row m-0 mt-7">
             <div class="col-12">
                 <div class="col-6 offset-3">
-                    <button class="btn btn-brown" style="width: 100%;background-color: rgb(182, 76, 42);">Join Us</button>
+                    <button class="btn btn-brown" style="width: 100%;background-color: rgb(182, 76, 42); ">Join Us</button>
                 </div>
             </div>
         </div>
@@ -339,7 +342,7 @@ Banner -->
             </div>
         </div>
         <div class="row m-0 mt-7">
-            <div class="col-12 d-flex p-0">
+            <div class="col-12 d-flex ">
                 <div class="owl-carousel owl-theme">
 
                     <div class="item">
@@ -360,10 +363,17 @@ Banner -->
         </div>
         <div class="row m-0 mt-5">
             <div class="col-12 text-center mt-5">
-                <h3>Our Story</h3>
+                <div class="col-4 offset-4 d-flex">
+                    <div class="col-6" style="border-bottom: 2px solid white;">
+                    </div>
+                    <div class="col-6 text-start ms-2">
+                        <h3 class="mb-0">Our Story</h3>
+                    </div>
+                </div>
+
             </div>
-            <div class="col-12 text-center mt-3">
-                The Billionaire Bunker
+            <div class="col-12 text-center mt-2">
+                <h1>The Billionaire Bunker</h1>
             </div>
             <div class="col-md-12 d-md-flex mt-6">
                 <div class="col-md-6 col-sm-12" style="text-align: -webkit-center;">
@@ -372,14 +382,17 @@ Banner -->
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 mt-3  ">
-                    <div class="col-12">
+                    <div class="col-12 p-4">
                         <p style="display: contents;">
-                            Once, not so long ago, in their ever expanding attempt to regulate and control global currencies, the world’s leading governments combined to form an International planetary commission. They consolidated all of the world’s hard currencies into one and
-                            set limits on earning, investment, and spending. The idea was to put a stop to the out of control depletion of natural resources and profiteering. To manage this new world order, digital scientists developed new infrastructure
-                            within the metasphere, where machine intelligence could be employed to police online and deep web traffic. After a decade, human activity was normalized into standard routine. Work, replenish, work. The new global government
-                            established a machine code to provide daily briefings and make decisions regarding best possible outcomes. As a result, all forms of leisure and entertainment were heavily monitored under the “Get to Work Act.” Parties were
-                            banned Banning anything involving emotions attachment. Government took control over emotional decision such as numbers of babies and only 1 pet per family. Which results by humans deciding to keep only dogs (man’s best friend)
-                            - So the cats were put off the street on their own
+                            Once, not so long ago, in their ever expanding attempt to regulate and control global currencies, the world’s leading governments combined to form an International planetary commission.</p>
+                        <br><br>
+                        <p style="display: contents;"> They consolidated all of the world’s hard currencies into one and set limits on earning, investment, and spending. The idea was to put a stop to the out of control depletion of natural resources and profiteering. To manage this
+                            new world order, digital scientists developed new infrastructure within the metasphere, where machine intelligence could be employed to police online and deep web traffic. After a decade, human activity was normalized into
+                            standard routine. Work, replenish, work.</p>
+                        <br><br>
+                        <p style="display: contents;"> The new global government established a machine code to provide daily briefings and make decisions regarding best possible outcomes. As a result, all forms of leisure and entertainment were heavily monitored under the “Get to Work
+                            Act.” Parties were banned Banning anything involving emotions attachment. Government took control over emotional decision such as numbers of babies and only 1 pet per family. Which results by humans deciding to keep only dogs
+                            (man’s best friend) - So the cats were put off the street on their own
                             <span id="dots">...</span><span id="more" style="display: none;">Lorem ipsum dolor
                             sit amet consectetur adipisicing elit. Iste eligendi, blanditiis, voluptates molestias voluptatem enim nisi sapiente sed aliquid est eaque cumque cum molestiae? Assumenda neque quos unde quam inventore.</span></p>
                         <a onclick="myFunction()" id="myBtn">Read more</a>
@@ -426,82 +439,52 @@ Banner -->
             </div>
             <div class="col-12 m-0 d-flex mt-4">
                 <div class="col-3 offset-2">
-                    <div class="col-12"><img src="assets/images/team-top.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                    <div class="col-12"><img src="assets/images/top-cards (3).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
                 <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                    <div class="col-12"><img src="assets/images/top-cards (4).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
                 <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                    <div class="col-12"><img src="assets/images/top-cards (5).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
             </div>
-            <div class="col-12 d-flex mx-3">
+            <div class="col-12 d-flex mx-3 mt-3">
                 <div class="col-3">
                     <div class="col-12">
-                        <img src="assets/images/team-middle (3).png" width="90%" class="img-fluid" alt="">
+                        <img src="assets/images/cards (1).png" width="90%" class="img-fluid" alt="">
                     </div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
 
-                    </div>
                 </div>
                 <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-middle (4).png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                    <div class="col-12"><img src="assets/images/cards (2).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
                 <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                    <div class="col-12"><img src="assets/images/cards (3).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
                 <div class="col-3">
-                    <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid" alt=""></div>
+                    <div class="col-12"><img src="assets/images/cards (4).png" class="img-fluid" alt=""></div>
 
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
 
-                    </div>
                 </div>
             </div>
-            <div class="col-12 d-flex">
+            <div class="col-12 d-flex mt-3">
                 <div class="col-12 d-flex">
                     <div class="col-3 offset-2">
-                        <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid" alt=""></div>
-                        <div class="col-9 offset-1 text-center text-overlay-box">
-                            <strong>Home Run - CEO and Investor</strong>
+                        <div class="col-12"><img src="assets/images/end-cards (3).png" class="img-fluid" alt=""></div>
 
-                        </div>
                     </div>
                     <div class="col-3">
-                        <div class="col-12"><img src="assets/images/team-end (2).png" class="img-fluid" alt=""></div>
-                        <div class="col-9 offset-1 text-center text-overlay-box">
-                            <strong>Home Run - CEO and Investor</strong>
+                        <div class="col-12"><img src="assets/images/end-cards (4).png" class="img-fluid" alt=""></div>
 
-                        </div>
                     </div>
                     <div class="col-3">
-                        <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid" alt=""></div>
-                        <div class="col-9 offset-1 text-center text-overlay-box">
-                            <strong>Home Run - CEO and Investor</strong>
+                        <div class="col-12"><img src="assets/images/end-cards (5).png" class="img-fluid" alt=""></div>
 
-                        </div>
                     </div>
                 </div>
             </div>
@@ -512,107 +495,83 @@ Banner -->
                 <p>Meet the entire team</p>
             </div>
             <div class="col-sm-12 m-0 d-flex mt-4">
-                <div class="col-sm-6 ">
-                    <div class="col-12"><img src="assets/images/team-top.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                <div class="col-sm-6 p-2 ">
+                    <div class="col-12"><img src="assets/images/top-cards (5).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
-                <div class="col-sm-6">
-                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                <div class="col-sm-6 p-2">
+                    <div class="col-12"><img src="assets/images/top-cards (4).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
             </div>
             <div class="col-sm-12 m-0 d-flex mt-4">
-                <div class="col-sm-6">
-                    <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                <div class="col-sm-6 p-2">
+                    <div class="col-12"><img src="assets/images/top-cards (3).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
 
-                <div class="col-sm-6">
+                <div class="col-sm-6 p-2">
                     <div class="col-12">
-                        <img src="assets/images/team-middle (3).png" class="img-fluid" alt="">
+                        <img src="assets/images/cards (4).png" class="img-fluid" alt="">
                     </div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
 
-                    </div>
                 </div>
             </div>
             <div class="col-sm-12 m-0 d-flex mt-4">
-                <div class="col-sm-6">
-                    <div class="col-12"><img src="assets/images/team-middle (4).png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                <div class="col-sm-6 p-2">
+                    <div class="col-12"><img src="assets/images/cards (3).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
-                <div class="col-sm-6">
-                    <div class="col-12"><img src="assets/images/team-top-middle.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                <div class="col-sm-6 p-2">
+                    <div class="col-12"><img src="assets/images/cards (1).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
             </div>
             <div class="col-sm-12 m-0 d-flex mt-4">
-                <div class="col-sm-6">
-                    <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid" alt=""></div>
+                <div class="col-sm-6 p-2">
+                    <div class="col-12"><img src="assets/images/cards (2).png" class="img-fluid" alt=""></div>
 
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
 
-                    </div>
                 </div>
 
 
-                <div class="col-sm-6 ">
-                    <div class="col-12"><img src="assets/images/team-middle-end.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                <div class="col-sm-6 p-2 ">
+                    <div class="col-12"><img src="assets/images/end-cards (3).png" class="img-fluid" alt=""></div>
 
-                    </div>
+
                 </div>
             </div>
             <div class="col-sm-12 m-0 d-flex mt-4">
-                <div class="col-sm-6">
-                    <div class="col-12"><img src="assets/images/team-end (2).png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                <div class="col-sm-6 p-2">
+                    <div class="col-12"><img src="assets/images/end-cards (5).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
-                <div class="col-sm-6">
-                    <div class="col-12"><img src="assets/images/team-top-end.png" class="img-fluid" alt=""></div>
-                    <div class="col-9 offset-1 text-center text-overlay-box">
-                        <strong>Home Run - CEO and Investor</strong>
+                <div class="col-sm-6 p-2">
+                    <div class="col-12"><img src="assets/images/end-cards (4).png" class="img-fluid" alt=""></div>
 
-                    </div>
                 </div>
             </div>
         </div>
 
         <div class="row m-0 mt-5">
             <div class="col-11">
-                <p style="margin-left: 50px;">
-                    <h3 style="margin-left: 50px;">FAQ</h3>
-                </p>
+                <div class="col-6 d-flex " style="margin-left: 50px;">
+                    <div class="col-3" style="border-bottom: 2px solid white;">
+                    </div>
+                    <div class="col-6 ms-2">
+                        <h3 class="mb-0">FAQ</h3>
+                    </div>
+
+                </div>
                 <div class="col-12 d-md-flex">
                     <div class="col-md-6 col-sm-12" style="margin-left: 50px;">
                         <h1>Frenquently Questions</h1>
                         <div class="col-12 " style="padding-left: 0px;">
-                            <span>General</span>
-                            <span>Pre ICO & ICO</span>
-                            <span>Token</span>
-                            <span>Client</span>
-                            <span>Legal</span>
+                            <span class="me-1">General</span>
+                            <span class="me-1">Pre ICO & ICO</span>
+                            <span class="me-1">Token</span>
+                            <span class="me-1">Client</span>
+                            <span class="me-1">Legal</span>
 
                             <div class="col-9 offset-1 d-flex " style="padding: 10px 1px 10px 1px !important;border-bottom:1px solid white">
                                 <div class="col-10">
@@ -672,7 +631,7 @@ Banner -->
         </div>
         <div class="row m-0 mt-6">
             <div class="col-10 d-flex offset-1 ">
-                <div class="col-2"><img src="assets/images/logo_1.png" class="img-fluid" alt=""></div>
+                <div class="col-2"><img src="assets/images/logo_1.png" class="img-fluid mobile" alt=""></div>
                 <div class="col-8 text-end mt-4">
                     <div class="col-12">
                         <span>Contant Us</span>
